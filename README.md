@@ -1,6 +1,6 @@
 Task Tracker
 
-A simple React application to manage daily tasks. This application allows users to add, view, edit, and delete tasks, with data persistence using the browser's local storage.)
+A simple React application to manage daily tasks. This application allows users to add, view, edit, and delete.
 
 npm start
 This will start the application on http://localhost:3000/.
